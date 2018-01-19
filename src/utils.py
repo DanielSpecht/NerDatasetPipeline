@@ -15,3 +15,6 @@ __status__ = "Development"
 #     file_name_stem = "/home/daniel/Repositories/NerDatasetPipeline/src/testFile",
 #     chunks = 4,
 #     extension = ".chunk")
+
+import wikidump
+
